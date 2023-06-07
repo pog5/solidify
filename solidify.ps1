@@ -23,8 +23,6 @@ if ($SolidifyChrome) {
         "Profile.default_content_settings.popups" = 0
         "Profile.default_content_settings.cookies" = 2
         "Profile.default_content_settings.history" = 2
-        "Profile.managed_default_content_settings.images" = 2
-        "Profile.managed_default_content_settings.javascript" = 2
     }
 
     # Install uBlock Origin using Chrome extension ID
